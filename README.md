@@ -12,10 +12,13 @@
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode Icon" style="vertical-align: middle; margin-left: 5px;">
   </a>
 
+
   </h1>
   <p style="font-size: 16px; color: gray;">
     3rd year student, Ho Chi Minh City University of Industry
   </p>
+    
+  ![Profile Views](https://komarev.com/ghpvc/?username=iamnguyenvu&label=Profile%20Views&color=blue&style=plastic)
 </div>
 <!--
 - Focus on digital strategy, growth strategy, and strategic cost reduction in software development.
