@@ -5,12 +5,13 @@
   <h1 style="font-size: 24px; margin-bottom: 5px;">
     Nguyen Vu
     <!-- Badge Icons (Only Icons, No Names) -->
-    <a href="[https://[github.com/yennhi95zz/yennhi95zz](https://github.com/iamnguyenvu/iamnguyenvu)](https://github.com/iamnguyenvu/iamnguyenvu)">
+    <a href="https://github.com/iamnguyenvu/iamnguyenvu">
       <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=white" alt="GitHub Icon" style="vertical-align: middle; margin-left: 5px;">
-    </a>
-    <a href="[https://github.com/yennhi95zz/yennhi95zz](https://leetcode.com/u/nguyenvu38/)">
-      <img alt="Leatcode Icon" src="https://img.shields.io/badge/https%3A%2F%2Fleetcode.com%2Fu%2Fnguyenvu38%2F" style="vertical-align: middle; margin-left: 5px;">
-    </a>
+  </a>
+  <a href="https://leetcode.com/u/nguyenvu38/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode Icon" style="vertical-align: middle; margin-left: 5px;">
+  </a>
+
   </h1>
   <p style="font-size: 16px; color: gray;">
     3rd year student, Ho Chi Minh City University of Industry
@@ -81,15 +82,15 @@ Absolutely, I can sign an NDA. However, the best protection is working with trus
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=Jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%230084C8.svg?style=plastic&logo=Matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%232E77BC.svg?style=plastic&logo=Seaborn&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white) 
-
-
 
 
 # GitHub Stats
