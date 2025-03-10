@@ -3,18 +3,20 @@
 <!-- Profile Header (Name and Titles) -->
 <div style="margin-top: 80px; text-align: left; padding: 0 40px;">
   <h1 style="font-size: 24px; margin-bottom: 5px;">
-    Nguyen Vu
-    <!-- Badge Icons (Only Icons, No Names) -->
-    <a href="https://github.com/iamnguyenvu/iamnguyenvu">
-      <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=white" alt="GitHub Icon" style="vertical-align: middle; margin-left: 5px;">
-  </a>
-  <a href="https://leetcode.com/u/nguyenvu38/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode Icon" style="vertical-align: middle; margin-left: 5px;">
-  </a>
-
+    <p align="center">
+      Nguyen Vu
+      <!-- Badge Icons (Only Icons, No Names) -->
+        <a href="https://github.com/iamnguyenvu/iamnguyenvu">
+          <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=white" alt="GitHub Icon" style="vertical-align: middle; margin-left: 5px;">
+        </a>
+        <a href="https://leetcode.com/u/nguyenvu38/">
+            <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode Icon" style="vertical-align: middle; margin-left: 5px;">
+        </a>
+    </p>
+    
 
   </h1>
-  <p style="font-size: 16px; color: gray;">
+  <p style="font-size: 16px; color: gray;" align="center">
     3rd year student, Ho Chi Minh City University of Industry
   </p>
     
