@@ -101,10 +101,14 @@ Absolutely, I can sign an NDA. However, the best protection is working with trus
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
 
 
-# GitHub Stats
-  ![](https://github-readme-stats.vercel.app/api?username=iamnguyenvu&theme=dark&hide_border=false&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=iamnguyenvu&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnguyenvu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+ <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=iamnguyenvu&theme=dark&hide_border=false&count_private=true&count_public=true"/>
+   <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnguyenvu&theme=dark&hide_border=false&v=1"/>
+   <br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnguyenvu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+ </p>
 
 ### ✍️ Quotes to Boost Motivation  
 <p align="center">
