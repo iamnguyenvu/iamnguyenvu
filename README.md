@@ -16,9 +16,9 @@
     
 
   </h1>
-  <p style="font-size: 16px; color: gray;" align="center">
+<!--   <p style="font-size: 16px; color: gray;" align="center">
     3rd year student, Ho Chi Minh City University of Industry
-  </p>
+  </p> -->
     
   ![Profile Views](https://komarev.com/ghpvc/?username=iamnguyenvu&label=Profile%20Views&color=blue&style=plastic)
 </div>
@@ -76,7 +76,7 @@ Absolutely, I can sign an NDA. However, the best protection is working with trus
 - Book a call
 -->
 # Tech Stack
-
+<!--
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2b%2b&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
@@ -99,7 +99,7 @@ Absolutely, I can sign an NDA. However, the best protection is working with trus
 ![Seaborn](https://img.shields.io/badge/Seaborn-%232E77BC.svg?style=plastic&logo=Seaborn&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
-
+-->
 
 ## 📊 GitHub Stats
  <p align="center">
