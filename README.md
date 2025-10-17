@@ -73,7 +73,7 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/images/rainbow-hr.gif" width="100%" height="7px">
 
-## 📊 Live Stats & Activity (sky-blue)
+## 📊 Live Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamnguyenvu&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&text_color=9fd6ff&icon_color=00BFFF&bg_color=0d1117" height="165" alt="GitHub Stats"/>
