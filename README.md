@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00BFFF&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Nguyen+Vu+%F0%9F%91%8B;Backend+%26+Frontend+Developer;System+Analysis+%26+Data+Modeling+Enthusiast;Clean+Architecture+%7C+High+Performance+%7C+DX+Focused" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=900&color=00BFFF&center=true&vCenter=true&width=920&lines=Hi%2C+I'm+Nguyen+Vu+%F0%9F%91%8B;Backend+%26+Frontend+Developer;System+Analysis+%26+Data+Modeling;Clean+Architecture+%7C+High+Performance+%7C+Delightful+DX" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -18,16 +18,31 @@
   </a>
   <br/><br/>
   <p><b>Build scalable systems • Ship great DX • Make things people love</b></p>
+
+  <!-- Quick Nav -->
+  <a href="#-about-me--philosophy"><img src="https://img.shields.io/badge/About-00BFFF?style=for-the-badge&logo=readme&logoColor=white" /></a>
+  <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/Tech%20Stack-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#-live-stats-sky-blue"><img src="https://img.shields.io/badge/Stats-00BFFF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-github-trophies"><img src="https://img.shields.io/badge/Trophies-1E90FF?style=for-the-badge&logo=apachespark&logoColor=white" /></a>
+  <a href="#-contribution-snake"><img src="https://img.shields.io/badge/Snake-00BFFF?style=for-the-badge&logo=python&logoColor=white" /></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/images/rainbow-hr.gif" width="100%" height="7px">
+<!-- Nebula Divider (unique gradient bar) -->
+<p align="center">
+  <img alt="divider" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=%20&width=1200&height=12"/>
+</p>
 
 ## 🚀 About Me & Philosophy
 - 👨‍💻 **Backend & Frontend Developer** focused on **System Analysis**, **Database Design**, and **Domain/Data Modeling**  
 - 🧭 Turn vague requirements into clear, implementable specs and robust architectures (clean boundaries, consistent contracts)  
 - 🧩 Strengths: API design, schema/migration discipline (Flyway), reliability (idempotency, retry/backoff, outbox/saga when needed)  
 - 🛠️ DX-first: readable codebases, automated lint/test/CI, standardized logs & healthchecks, concise runbooks  
-- 📐 Principles: **Correct → Minimal → Reliable → Extensible**  
+- 📐 Principles:
+  <br/>
+  <img src="https://img.shields.io/badge/Correct-0d1117?style=for-the-badge&labelColor=0d1117&color=00BFFF">
+  <img src="https://img.shields.io/badge/Minimal-0d1117?style=for-the-badge&labelColor=0d1117&color=1E90FF">
+  <img src="https://img.shields.io/badge/Reliable-0d1117?style=for-the-badge&labelColor=0d1117&color=00BFFF">
+  <img src="https://img.shields.io/badge/Extensible-0d1117?style=for-the-badge&labelColor=0d1117&color=1E90FF">
 
 ## 🛠️ Tech Stack & Tools
 
@@ -71,9 +86,12 @@
   </p>
 </details>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/images/rainbow-hr.gif" width="100%" height="7px">
+<!-- Nebula Divider -->
+<p align="center">
+  <img alt="divider" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=%20&width=1200&height=12"/>
+</p>
 
-## 📊 Live Stats (sky-blue)
+## 📊 Live Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamnguyenvu&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&text_color=9fd6ff&icon_color=00BFFF&bg_color=0d1117" height="165" alt="GitHub Stats"/>
@@ -84,13 +102,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnguyenvu&layout=compact&hide_border=true&title_color=00BFFF&text_color=9fd6ff&bg_color=0d1117" height="140" alt="Top Languages"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamnguyenvu&theme=github_dark" width="90%" alt="Profile Details Card"/>
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iamnguyenvu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
-## 🐍 Contribution Snake (auto-updating)
+## 🐍 Contribution Snake
 <p align="center">
   <picture>
     <!-- Dark mode -->
