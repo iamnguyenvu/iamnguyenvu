@@ -73,7 +73,7 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/images/rainbow-hr.gif" width="100%" height="7px">
 
-## 📊 Live Stats & Activity
+## 📊 Live Stats (sky-blue)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamnguyenvu&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&text_color=9fd6ff&icon_color=00BFFF&bg_color=0d1117" height="165" alt="GitHub Stats"/>
@@ -84,26 +84,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnguyenvu&layout=compact&hide_border=true&title_color=00BFFF&text_color=9fd6ff&bg_color=0d1117" height="140" alt="Top Languages"/>
 </p>
 
-<!-- Optional: Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnguyenvu&hide_border=true&radius=8&bg_color=0d1117&color=00BFFF&line=00BFFF&point=87CEFA&area=true&area_color=1E90FF" alt="Activity Graph"/>
-</p>
-
-<!-- Optional: WakaTime (enable if your username is valid) -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iamnguyenvu&hide_border=true&title_color=00BFFF&text_color=9fd6ff&bg_color=0d1117" height="240" alt="WakaTime"/>
-</p>
--->
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iamnguyenvu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
-## 🐍 My Contribution Graph
+## 🐍 Contribution Snake (auto-updating)
 <p align="center">
-  <img src="https://github.com/iamnguyenvu/iamnguyenvu/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph"/>
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamnguyenvu/iamnguyenvu/output/snake-dark.svg" />
+    <!-- Light / Sky-blue -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamnguyenvu/iamnguyenvu/output/snake-sky.svg" />
+    <!-- Fallback -->
+    <img alt="github-snake" src="https://raw.githubusercontent.com/iamnguyenvu/iamnguyenvu/output/snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
