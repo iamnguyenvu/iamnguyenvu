@@ -1,122 +1,111 @@
-
-
-<!-- Profile Header (Name and Titles) -->
-<div style="margin-top: 80px; text-align: left; padding: 0 40px;">
-  <h1 style="font-size: 24px; margin-bottom: 5px;">
-    <p align="center">
-      Nguyen Vu
-      <!-- Badge Icons (Only Icons, No Names) -->
-        <a href="https://github.com/iamnguyenvu/iamnguyenvu">
-          <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=white" alt="GitHub Icon" style="vertical-align: middle; margin-left: 5px;">
-        </a>
-        <a href="https://leetcode.com/u/nguyenvu38/">
-            <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode Icon" style="vertical-align: middle; margin-left: 5px;">
-        </a>
-    </p>
-    
-
-  </h1>
-<!--   <p style="font-size: 16px; color: gray;" align="center">
-    3rd year student, Ho Chi Minh City University of Industry
-  </p> -->
-    
-  ![Profile Views](https://komarev.com/ghpvc/?username=iamnguyenvu&label=Profile%20Views&color=blue&style=plastic)
-</div>
-<!--
-- Focus on digital strategy, growth strategy, and strategic cost reduction in software development.
-- Lead the development of analytics functions and drive the product delivery process for successful product launches.
-- Explore the application of AI, Machine Learning, and Generative AI to increase business ROI and profitability.
--->
-<!--
-# Services  [![Request Services](https://img.shields.io/badge/Request%20Services-007bff?style=flat-square&logo=appveyor&logoColor=white)](https://forms.gle/aYosns49wa8MgVKj6)
-<!--
-1. Career Coaching
-2. Project/Product Management (Digital Transformation, Data & AI)
-  - ERP Management
-  - App Development (UX/UI, API, DB)
-  - Data Pipeline (GCP, AWS, Azure)
-  - Advanced Analytics (LLM, AI, ML)
-  - FinTech (Automation, Payments, Compliance)
-  -->
-<!--
-### 💡 Unique Value Proposition  
-Specializing in cost-effective, scalable solutions tailored to start-ups with limited tech knowledge and budgets.
-
-<!--
-<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">
-    <img src="https://media.licdn.com/dms/image/v2/D5633AQFDX_mKGMQtmQ/productpage-image_1128_635/productpage-image_1128_635/0/1725761416228?e=1728784800&v=beta&t=tSpmqeVtod9satKsJa-4K7mIEoWIj73uRagYAZbqW6I" alt="AI | Machine Learning | LLM Solution" style="width: 200px; height: 150px; border-radius: 8px;">
-    <img src="https://media.licdn.com/dms/image/v2/D5633AQGXbSjEmNprAA/productpage-image_1128_635/productpage-image_1128_635/0/1725761532360?e=1728784800&v=beta&t=ZhU4UUAAoHdnq2S20N7QWyyjlL4Z6Kpdce4CRWufImY" alt="Data Warehouse | Data Pipeline (GCP, AWS, Azure)" style="width: 200px; height: 150px; border-radius: 8px;">    
-    <img src="https://media.licdn.com/dms/image/v2/D5633AQH42Qbm5jR2Qg/productpage-image_1128_635/productpage-image_1128_635/0/1725761657287?e=1728784800&v=beta&t=HpaAGJu1KUtOEnHosCkoCSdE9Sct_81fKYXuXpIh66g" alt="ERP Centralized System (SAP, Odoo, Dynamic 365, Oracle)" style="width: 200px; height: 150px; border-radius: 8px;">    
-    <img src="https://media.licdn.com/dms/image/v2/D5633AQGqeYsOQMy0Jg/productpage-image_1128_635/productpage-image_1128_635/0/1725762051204?e=1728784800&v=beta&t=TSGf5Wp_c4N39yn3MN9EmKbfOUSuj4YRLVLMtmkUbLQ" alt="Fintech (Blockchain | Crypto | Online Banking | Digital Payments" style="width: 200px; height: 150px; border-radius: 8px;">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00BFFF&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Nguyen+Vu+%F0%9F%91%8B;Backend+%26+Frontend+Developer;System+Analysis+%26+Data+Modeling+Enthusiast;Clean+Architecture+%7C+High+Performance+%7C+DX+Focused" alt="Typing SVG" />
 </div>
 
-
-📍 Location: Remote  
-💰 Contact for price
-
-# Commitments
-
-- 100% Job Done: Leveraging experience and expertise to deliver results
-- <24-Hour Response: Committed to prompt communication and issue resolution
-- Client Satisfaction: Focused on delivering value and exceeding expectations
-- Continuous Improvement: Always looking for ways to optimize and enhance the process
-
-
-# Frequently Asked Questions
-**Why don't I have a Portfolio?**
-
-I keep my client's projects CONFIDENTIAL to respect their privacy. And YOURS, too! If you'd like to see examples of my work, feel free to contact me.
-
-**Can I sign an NDA?**
-
-Absolutely, I can sign an NDA. However, the best protection is working with trustworthy professionals. I respect my clients' privacy, and my reputation is on the line. I can provide a standard NDA or feel free to send your own.
-
-# Contact
-- [Request a service](https://forms.gle/aYosns49wa8MgVKj6)
-- Book a call
--->
-# Tech Stack
-<!--
-![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=Jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%230084C8.svg?style=plastic&logo=Matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%232E77BC.svg?style=plastic&logo=Seaborn&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
--->
-
-## 📊 GitHub Stats
- <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=iamnguyenvu&theme=dark&hide_border=false&count_private=true&count_public=true"/>
-   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnguyenvu&theme=dark&hide_border=false&v=1"/>
-   <br/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnguyenvu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
- </p>
-
-### ✍️ Quotes to Boost Motivation  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Nguyen%20Hoang%20Nguyen%20Vu&fontAlign=50&fontAlignY=36&fontColor=ffffff&fontSize=52&animation=twinkling&stroke=0d1117&strokeWidth=1.5"/>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=iamnguyenvu&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://github.com/iamnguyenvu">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://leetcode.com/u/nguyenvu38/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge">
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=iamnguyenvu">
+    <img alt="Views" src="https://komarev.com/ghpvc/?username=iamnguyenvu&label=PROFILE+VIEWS&color=1E90FF&style=for-the-badge">
+  </a>
+  <br/><br/>
+  <p><b>Build scalable systems • Ship great DX • Make things people love</b></p>
+</div>
 
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/images/rainbow-hr.gif" width="100%" height="7px">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me & Philosophy
+- 👨‍💻 **Backend & Frontend Developer** focused on **System Analysis**, **Database Design**, and **Domain/Data Modeling**  
+- 🧭 Turn vague requirements into clear, implementable specs and robust architectures (clean boundaries, consistent contracts)  
+- 🧩 Strengths: API design, schema/migration discipline (Flyway), reliability (idempotency, retry/backoff, outbox/saga when needed)  
+- 🛠️ DX-first: readable codebases, automated lint/test/CI, standardized logs & healthchecks, concise runbooks  
+- 📐 Principles: **Correct → Minimal → Reliable → Extensible**  
+
+## 🛠️ Tech Stack & Tools
+
+<details>
+  <summary><b>Backend</b></summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge">
+  </p>
+</details>
+
+<details>
+  <summary><b>Frontend</b></summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge">
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge">
+  </p>
+</details>
+
+<details>
+  <summary><b>Databases</b></summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge">
+  </p>
+</details>
+
+<details>
+  <summary><b>DevOps & Tools</b></summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge">
+  </p>
+</details>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/images/rainbow-hr.gif" width="100%" height="7px">
+
+## 📊 Live Stats & Activity (sky-blue)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnguyenvu&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&text_color=9fd6ff&icon_color=00BFFF&bg_color=0d1117" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamnguyenvu&hide_border=true&background=0d1117&ring=00BFFF&fire=1E90FF&currStreakNum=9fd6ff&sideNums=9fd6ff&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=9fd6ff" height="165" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnguyenvu&layout=compact&hide_border=true&title_color=00BFFF&text_color=9fd6ff&bg_color=0d1117" height="140" alt="Top Languages"/>
+</p>
+
+<!-- Optional: Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnguyenvu&hide_border=true&radius=8&bg_color=0d1117&color=00BFFF&line=00BFFF&point=87CEFA&area=true&area_color=1E90FF" alt="Activity Graph"/>
+</p>
+
+<!-- Optional: WakaTime (enable if your username is valid) -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iamnguyenvu&hide_border=true&title_color=00BFFF&text_color=9fd6ff&bg_color=0d1117" height="240" alt="WakaTime"/>
+</p>
+-->
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamnguyenvu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+## 🐍 My Contribution Graph
+<p align="center">
+  <img src="https://github.com/iamnguyenvu/iamnguyenvu/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=150&section=footer"/>
+</p>
