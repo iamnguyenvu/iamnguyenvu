@@ -19,12 +19,12 @@
   <br/><br/>
   <p><b>Build scalable systems • Ship great DX • Make things people love</b></p>
 
-  <!-- Quick Nav -->
-  <a href="#about-me--philosophy"><img src="https://img.shields.io/badge/About-00BFFF?style=for-the-badge&logo=readme&logoColor=white" /></a>
-  <a href="#tech-stack--tools"><img src="https://img.shields.io/badge/Tech%20Stack-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#live-stats"><img src="https://img.shields.io/badge/Stats-00BFFF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#github-trophies"><img src="https://img.shields.io/badge/Trophies-1E90FF?style=for-the-badge&logo=apachespark&logoColor=white" /></a>
-  <a href="#contribution-snake"><img src="https://img.shields.io/badge/Snake-00BFFF?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <!-- Quick Nav (custom ids) -->
+  <a href="#about"><img src="https://img.shields.io/badge/About-00BFFF?style=for-the-badge&logo=readme&logoColor=white" /></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/Stats-00BFFF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#trophies"><img src="https://img.shields.io/badge/Trophies-1E90FF?style=for-the-badge&logo=apachespark&logoColor=white" /></a>
+  <a href="#snake"><img src="https://img.shields.io/badge/Snake-00BFFF?style=for-the-badge&logo=python&logoColor=white" /></a>
 </div>
 
 <!-- Nebula Divider -->
@@ -32,6 +32,7 @@
   <img alt="divider" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=%20&width=1200&height=12"/>
 </p>
 
+<a id="about"></a>
 ## 🚀 About Me & Philosophy
 - 👨‍💻 **Backend & Frontend Developer** focused on **System Analysis**, **Database Design**, and **Domain/Data Modeling**  
 - 🧭 Turn vague requirements into clear, implementable specs and robust architectures (clean boundaries, consistent contracts)  
@@ -44,6 +45,7 @@
   <img src="https://img.shields.io/badge/Reliable-0d1117?style=for-the-badge&labelColor=0d1117&color=00BFFF">
   <img src="https://img.shields.io/badge/Extensible-0d1117?style=for-the-badge&labelColor=0d1117&color=1E90FF">
 
+<a id="stack"></a>
 ## 🛠️ Tech Stack & Tools
 
 <details>
@@ -95,6 +97,7 @@
   <img alt="divider" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=%20&width=1200&height=12"/>
 </p>
 
+<a id="stats"></a>
 ## 📊 Live Stats
 
 <p align="center">
@@ -110,11 +113,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamnguyenvu&theme=github_dark" width="90%" alt="Profile Details Card"/>
 </p>
 
+<a id="trophies"></a>
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iamnguyenvu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
+<a id="snake"></a>
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
