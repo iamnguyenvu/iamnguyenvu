@@ -20,14 +20,14 @@
   <p><b>Build scalable systems • Ship great DX • Make things people love</b></p>
 
   <!-- Quick Nav -->
-  <a href="#-about-me--philosophy"><img src="https://img.shields.io/badge/About-00BFFF?style=for-the-badge&logo=readme&logoColor=white" /></a>
-  <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/Tech%20Stack-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#-live-stats-sky-blue"><img src="https://img.shields.io/badge/Stats-00BFFF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#-github-trophies"><img src="https://img.shields.io/badge/Trophies-1E90FF?style=for-the-badge&logo=apachespark&logoColor=white" /></a>
-  <a href="#-contribution-snake"><img src="https://img.shields.io/badge/Snake-00BFFF?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#about-me--philosophy"><img src="https://img.shields.io/badge/About-00BFFF?style=for-the-badge&logo=readme&logoColor=white" /></a>
+  <a href="#tech-stack--tools"><img src="https://img.shields.io/badge/Tech%20Stack-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#live-stats"><img src="https://img.shields.io/badge/Stats-00BFFF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#github-trophies"><img src="https://img.shields.io/badge/Trophies-1E90FF?style=for-the-badge&logo=apachespark&logoColor=white" /></a>
+  <a href="#contribution-snake"><img src="https://img.shields.io/badge/Snake-00BFFF?style=for-the-badge&logo=python&logoColor=white" /></a>
 </div>
 
-<!-- Nebula Divider (unique gradient bar) -->
+<!-- Nebula Divider -->
 <p align="center">
   <img alt="divider" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=%20&width=1200&height=12"/>
 </p>
@@ -81,8 +81,12 @@
 <details>
   <summary><b>DevOps & Tools</b></summary>
   <p align="center">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000&style=for-the-badge">
+    <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge">
   </p>
 </details>
 
