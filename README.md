@@ -72,6 +72,7 @@
 <details>
   <summary><b>Databases</b></summary>
   <p align="center">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge">
@@ -91,6 +92,7 @@
     <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge">
   </p>
 </details>
+
 
 <!-- Nebula Divider -->
 <p align="center">
