@@ -1,29 +1,36 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nguyen+Vu+%F0%9F%91%8B" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0EA5E9&height=180&section=header&text=Nguyen%20Hoang%20Nguyen%20Vu&fontSize=42&fontColor=F8FAFC&fontAlignY=36&animation=fadeIn" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0C4A6E&height=200&section=header&text=Nguyen%20Hoang%20Nguyen%20Vu&fontAlign=50&fontAlignY=36&fontColor=ffffff&fontSize=48&animation=twinkling&stroke=0d1117&strokeWidth=1.5" />
+<h3>Software Engineer · Backend & Full-stack</h3>
 
-<h3 align="center">💼 Software Engineer &nbsp;·&nbsp; Backend & Full-stack Development</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+%2F+Spring+Boot+%C2%B7+TypeScript+%C2%B7+Next.js;Realtime+Systems+%C2%B7+Microservices+%C2%B7+Applied+AI;Building+software+from+architecture+to+production" />
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1200&color=0EA5E9&center=true&vCenter=true&width=650&lines=CQRS+%C2%B7+Event-driven+%C2%B7+Realtime-first+architecture;Java+21+%2F+Spring+Boot+%C2%B7+NestJS+%C2%B7+Next.js;450%2B+LeetCode+solved+%C2%B7+7+production+microservices" />
+<a href="https://iamnguyenvu.github.io/portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/iamnguyenvu">
+<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:iamnguyenvu.gm@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/nguyenvu38/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827"/>
+</a>
 
-<br/>
-<br/>
+<br/><br/>
 
-<a href="https://github.com/iamnguyenvu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://iamnguyenvu.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/iamnguyenvu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/nguyenvu38/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="mailto:iamnguyenvu.gm@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=iamnguyenvu&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=iamnguyenvu&label=PROFILE+VIEWS&color=0EA5E9&style=flat-square"/>
 
-<br/>
-<br/>
+<br/><br/>
 
-<b>Build scalable systems • Ship production software • Turn complex ideas into working products</b>
+<b>Designing reliable backend systems, realtime experiences, and practical AI-powered products.</b>
 
 </div>
 
@@ -31,221 +38,290 @@
 
 ---
 
-<br/>
+## `01.` About
+
+```ts
+const nguyenVu = {
+  role: "Backend / Full-stack Software Engineer",
+  education: "Software Engineering @ IUH",
+  graduation: "December 2026",
+
+  core: ["Java 21", "Spring Boot", "TypeScript"],
+  interestedIn: [
+    "Distributed Systems",
+    "Realtime Applications",
+    "System Design",
+    "Applied AI"
+  ],
+
+  currentlyBuilding: "Production-ready software"
+};
+```
+
+I focus primarily on **backend engineering with Java / Spring Boot**, while working comfortably across the stack with **TypeScript, Next.js, React, databases, realtime technologies, cloud infrastructure, and applied AI**.
 
 <div align="center">
 
-### 🎯 Final-year Software Engineering student building **backend systems, realtime platforms, and AI-enabled products** — based in Ho Chi Minh City, Vietnam.
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,nextjs,react,postgres,redis,kafka,docker,aws,flutter,git&theme=dark&perline=13"/>
 
 </div>
 
 <br/>
 
-## 🧠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,nextjs,react,postgres,redis,docker,aws,flutter,git&theme=dark&perline=6" />
-
-</div>
-
-<br/>
-
-<table align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**⚙️ Backend**
-Java 21 · Spring Boot · NestJS · Express.js
-REST APIs · WebSockets · WebRTC
+### ⚙️ Backend
 
-</td>
-<td width="50%" valign="top">
+`Java 21`  
+`Spring Boot`  
+`NestJS`  
+`Express.js`
 
-**🎨 Frontend & Mobile**
-Next.js · React · TypeScript
-Flutter · React Native · Tailwind CSS
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🗄️ Data & Infra**
-PostgreSQL · Redis · Kafka
-Docker · Nginx · AWS EC2
+REST · OAuth2 · JWT  
+WebSockets · WebRTC
 
 </td>
-<td width="50%" valign="top">
 
-**🤖 AI & Tooling**
-Gemini · Ollama · Spring AI
-pgvector · RAG pipelines
+<td width="33%" valign="top">
+
+### 🗄️ Data & Infra
+
+`PostgreSQL`  
+`Redis`  
+`Kafka`  
+`MongoDB`
+
+Docker · AWS  
+Nginx · CI/CD
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 Applied AI
+
+`Gemini`  
+`Ollama`  
+`Spring AI`  
+`pgvector`
+
+RAG · Vector Search  
+LLM Integration
 
 </td>
 </tr>
 </table>
-
-<br/>
 
 ---
 
-<br/>
+## `02.` Featured Work
 
-## 🚀 Featured Work
+### 💬 VNALO
 
-<br/>
+> **Distributed realtime messaging platform — Project Lead & Backend Architect**
 
-<table align="center" width="100%">
+<table>
 <tr>
-<td width="100%">
+<td width="65%" valign="top">
 
-### 💬 [VNALO](https://github.com/iamnguyenvu) — Distributed Realtime Messaging Platform
-**Role:** Technical Lead & Backend Architect
+Built a **7-service polyglot platform** using Java 21 Spring Boot and NestJS, deployed on AWS EC2.
 
-Polyglot backend (Java Spring Boot + NestJS) implementing a **CQRS inbox pattern** with a denormalized projection, **atomic Redis sequencing** for ordered message delivery, and Socket.IO + WebRTC for chat, presence, and calling. Kafka pipeline feeds Firebase push notifications; Gemini/Ollama power AI smart replies.
+Designed realtime messaging infrastructure for **chat, presence, voice/video calls**, and integrated Gemini/Ollama for AI-assisted messaging.
 
-`Java 21` `Spring Boot` `NestJS` `Kafka` `Redis` `Socket.IO` `WebRTC` `Flutter` `AWS EC2`
+**Highlights**
+
+- 7-service distributed architecture
+- WebRTC voice/video calling
+- Redis Pub/Sub realtime coordination
+- Gemini + Ollama AI integration
+- Dockerized AWS deployment
+- Agile leadership & schema migration management
+
+</td>
+
+<td width="35%" valign="top">
+
+```text
+CORE STACK
+
+Java 21
+Spring Boot
+NestJS
+PostgreSQL
+Redis
+WebRTC
+Docker
+AWS EC2
+Flutter
+```
 
 </td>
 </tr>
 </table>
 
-<table align="center" width="100%">
-<tr>
-<td width="100%">
+<div align="center">
 
-### 🎬 [DONGHUA3D](https://github.com/iamnguyenvu) — HLS Movie Streaming Platform
-**Role:** Full-stack Developer & Deployer (solo build)
+`Distributed Systems` · `Realtime` · `WebRTC` · `AI Integration`
 
-Custom HLS transcoding pipeline with **GOP-aligned segmentation** for accurate seeking, a mutex-locked encode queue to protect limited server resources, and a dual-track (User/Expert) rating system. Deployed behind Cloudflare + Nginx with edge caching.
-
-`Next.js` `Express.js` `Prisma` `PostgreSQL` `FFmpeg` `HLS.js` `Nginx` `Cloudflare`
-
-</td>
-</tr>
-</table>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### ✈️ Airline Service Assistant
-**RAG-based flight support**
-
-Spring AI + pgvector retrieval assistant scoped to airline policy documents instead of generic chat behavior.
-
-`Spring Boot` `Spring AI` `pgvector`
-
-</td>
-<td width="50%" valign="top">
-
-### 🍱 DearU Food
-**Mobile delivery app**
-
-Offline-resilient cart (Zustand + AsyncStorage), TanStack Query caching, map-based delivery UX.
-
-`React Native` `Expo` `Supabase`
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
+
+### Other Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎬 DONGHUA3D
+
+**Streaming Platform**
+
+Full-stack video platform with HLS processing, PostgreSQL backend and production deployment.
+
+`Next.js`  
+`Express.js`  
+`PostgreSQL`  
+`FFmpeg`  
+`HLS.js`
+
+</td>
+
+<td width="33%" valign="top">
+
+### ✈️ Airline Assistant
+
+**RAG Application**
+
+AI assistant using vector semantic search over airline policy documents with external flight APIs.
+
+`Spring Boot`  
+`Next.js`  
+`Gemini`  
+`Ollama`  
+`RAG`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛒 E-commerce
+
+**Microservices Platform**
+
+Distributed commerce system with API Gateway, OAuth2/JWT, Redis and automated AWS deployment.
+
+`Spring Boot`  
+`Kong`  
+`Redis`  
+`OAuth2`  
+`Docker`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/iamnguyenvu?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<br/>
-
-## 📊 GitHub Stats
+## `03.` Engineering Snapshot
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=iamnguyenvu&hide_border=true&background=0F172A&ring=0EA5E9&fire=38BDF8&currStreakLabel=0EA5E9&sideLabels=7DD3FC&currStreakNum=F0F9FF&sideNums=F0F9FF&dates=64748B" />
+<img src="https://img.shields.io/badge/Backend-Java_%2F_Spring_Boot-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Architecture-Microservices-0284C7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Realtime-WebSocket_%2F_WebRTC-0369A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud-AWS_%2F_Docker-075985?style=flat-square"/>
+<img src="https://img.shields.io/badge/Problem_Solving-200%2B_LeetCode-0C4A6E?style=flat-square"/>
 
 </div>
 
 <br/>
 
+```text
+Backend Engineering     ████████████████████
+Full-stack Development  ████████████████░░░░
+Realtime Systems        █████████████████░░░
+Cloud & DevOps          ███████████████░░░░░
+Applied AI              █████████████░░░░░░░
+```
+
+> Build the simplest architecture that solves the actual problem — then measure, iterate, and scale when necessary.
+
+---
+
+## `04.` GitHub Analytics
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamnguyenvu&show_icons=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=38BDF8&text_color=7DD3FC" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnguyenvu&layout=compact&langs_count=6&hide_border=true&bg_color=0F172A&title_color=0EA5E9&text_color=7DD3FC" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamnguyenvu&show_icons=true&count_private=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&ring_color=38BDF8"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnguyenvu&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1"/>
+
+<br/><br/>
+
+<img width="72%" src="https://streak-stats.demolab.com/?user=iamnguyenvu&hide_border=true&background=020617&stroke=1E293B&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B"/>
 
 </div>
 
-<br/>
+---
+
+## `05.` Contribution Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamnguyenvu/iamnguyenvu/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamnguyenvu/iamnguyenvu/output/snake-sky.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/iamnguyenvu/iamnguyenvu/output/snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/iamnguyenvu/iamnguyenvu/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/iamnguyenvu/iamnguyenvu/output/snake-sky.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/iamnguyenvu/iamnguyenvu/output/snake.svg"
+  />
 </picture>
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**🧭 Engineering Principles**
-
-| Principle | Meaning |
-|---|---|
-| Correctness first | Data consistency, explicit contracts |
-| Simple before clever | Deployable over over-engineered |
-| Measure before claiming | No perf claims without benchmarks |
-
-</td>
-<td width="50%" valign="top">
-
-**🧩 Also Built**
-
-| Project | Domain |
-|---|---|
-| E-commerce Microservices | Java · Spring Boot |
-| AI Vocal Isolator | Python · PyTorch |
-| DRUGSOFT | Java Swing · OpenCV |
-| AI Stack Orchestrator | TypeScript · BullMQ |
-| Qorva Extension | Chrome Extension API |
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
 
 <div align="center">
 
-## 📫 Let's Connect
+## Let's build something useful.
 
-**Open to backend, full-stack, and AI-applied engineering roles** — graduating December 2026.
-
-<br/>
-
-<a href="mailto:iamnguyenvu.gm@gmail.com"><img src="https://img.shields.io/badge/iamnguyenvu.gm@gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C4A6E" /></a>
-<a href="https://linkedin.com/in/iamnguyenvu"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C4A6E" /></a>
-<a href="https://iamnguyenvu.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0C4A6E" /></a>
-
-<br/>
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=600&lines=Build+systems+that+are+useful%2C+understandable%2C+ready+to+ship." />
+Open to **Backend · Full-stack · AI-applied Software Engineering** opportunities.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0C4A6E,100:0EA5E9&height=100&section=footer" />
+<a href="mailto:iamnguyenvu.gm@gmail.com">
+<img src="https://img.shields.io/badge/iamnguyenvu.gm%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://linkedin.com/in/iamnguyenvu">
+<img src="https://img.shields.io/badge/Nguyen_Vu-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Build+useful+systems.+Keep+them+simple.+Ship+them." />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,55:0F172A,100:020617&height=110&section=footer"/>
 
 </div>
