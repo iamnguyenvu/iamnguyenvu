@@ -47,5 +47,5 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m 'chore: switch day/night ASCII portrait [skip ci]'
+          git commit -m 'chore(profile): switch day/night ASCII portrait [skip ci]'
           git push
