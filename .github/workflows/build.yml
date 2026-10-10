@@ -1,0 +1,51 @@
+name: Update day / night ASCII portrait
+
+on:
+  schedule:
+    # UTC: 23:00 -> 06:00 Vietnam; 15:00 -> 22:00 Vietnam.
+    - cron: '0 23,15 * * *'
+  push:
+    branches: [main, master]
+    paths:
+      - 'README.md'
+      - 'assets/profile/**'
+      - 'scripts/update_profile.py'
+      - 'tests/**'
+      - '.github/workflows/build.yml'
+  workflow_dispatch:
+    inputs:
+      period:
+        description: 'Preview override (next scheduled run returns to Vietnam time)'
+        type: choice
+        default: auto
+        options: [auto, day, night]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-art
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check schedule boundaries
+        run: python3 -m unittest discover -s tests -v
+      - name: Select artwork
+        env:
+          PROFILE_PERIOD: ${{ inputs.period || 'auto' }}
+        run: python3 scripts/update_profile.py --period "$PROFILE_PERIOD"
+      - name: Commit changed image references
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'chore: switch day/night ASCII portrait [skip ci]'
+          git push
