@@ -24,7 +24,7 @@ def picture(period):
         f'  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile/{period}-dark-mobile.svg">',
         f'  <source media="(max-width: 600px)" srcset="assets/profile/{period}-light-mobile.svg">',
         f'  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/{period}-dark.svg">',
-        f'  <img src="assets/profile/{period}-light.svg" alt="Nguyen Vu: IUH software engineering student, backend and full-stack development. Java, Spring Boot, TypeScript. Ho Chi Minh City; open to internships." width="1008">',
+        f'  <img src="assets/profile/{period}-light.svg" alt="Nguyen Vu: software engineering at IUH, backend and full-stack development. Java, Spring Boot, TypeScript; familiar with Flutter and React Native. Ho Chi Minh City; open to internships." width="1008">',
         '</picture>', END,
     ])
 

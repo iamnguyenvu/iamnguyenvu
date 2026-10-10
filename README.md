@@ -3,7 +3,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile/day-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/profile/day-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile/day-dark.svg">
-  <img src="assets/profile/day-light.svg" alt="Nguyen Vu: IUH software engineering student, backend and full-stack development. Java, Spring Boot, TypeScript. Ho Chi Minh City; open to internships." width="1008">
+  <img src="assets/profile/day-light.svg" alt="Nguyen Vu: software engineering at IUH, backend and full-stack development. Java, Spring Boot, TypeScript; familiar with Flutter and React Native. Ho Chi Minh City; open to internships." width="1008">
 </picture>
 <!-- profile-art:end -->
 
