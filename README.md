@@ -1,9 +1,9 @@
 <!-- profile-art:start -->
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile/day-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/profile/day-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/day-dark.svg">
-  <img src="assets/profile/day-light.svg" alt="Nguyen Vu: software engineering, backend and full-stack development. Java, Spring Boot, TypeScript; familiar with Flutter and React Native. Ho Chi Minh City; open to internships." width="1008">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile/night-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/profile/night-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/night-dark.svg">
+  <img src="assets/profile/night-light.svg" alt="Nguyen Vu: software engineering, backend and full-stack development. Java, Spring Boot, TypeScript; familiar with Flutter and React Native. Ho Chi Minh City; open to internships." width="1008">
 </picture>
 <!-- profile-art:end -->
 
